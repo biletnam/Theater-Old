@@ -1,2 +1,0 @@
-# Theater
-Theater control app
